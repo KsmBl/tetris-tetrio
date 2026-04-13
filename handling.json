@@ -1,0 +1,12 @@
+{
+  "ARR": 50,
+  "DAS": 133,
+  "MoveLeft": "Left",
+  "MoveRight": "Right",
+  "SoftDrop": "Down",
+  "HardDrop": "Space",
+  "RotateCW": "V",
+  "RotateCCW": "X",
+  "Rotate180": "C",
+  "Hold": "Z"
+}
